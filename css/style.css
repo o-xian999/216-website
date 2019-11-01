@@ -311,3 +311,10 @@ aside p{
     width: 100%;
     object-fit: cover;
 }
+
+/*CONTACT*/
+
+#contact{
+    background-image: url(../images/pic.jpg);
+    min-height: 100vh;
+}
