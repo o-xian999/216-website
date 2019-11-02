@@ -387,3 +387,9 @@ input[type="submit"]{
 .location-map{
     width: 74%;
 }
+
+/*iframe*/
+
+iframe{
+    width: 100%;
+}
