@@ -276,6 +276,20 @@ aside p{
     .big-box img{
         height: 100%;
     }
+
+    /*CONTACT*/
+
+    #contact .page-title{
+        margin-top: 40px;
+    }
+
+    /*FORM*/
+
+    input[type="text"],
+    input[type="email"],
+    textarea{
+        max-width: 100%;
+    }
 }
 
 /*MENU*/
